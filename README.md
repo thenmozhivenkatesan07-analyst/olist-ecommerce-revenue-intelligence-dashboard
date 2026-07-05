@@ -144,6 +144,11 @@ The project uses the **Olist Brazilian E-Commerce Dataset**, which contains 9 re
 - Interactive Dashboard Design
 
 ---
+## 🎥 Project Preview Video
+
+https://github.com/user-attachments/assets/9db9b01b-f82a-4525-a4d8-e6128f96b127
+
+
 
 ## 👩‍💻 Author
 
